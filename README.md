@@ -4,3 +4,6 @@ npm install && npm run dev   (then open the URL shown)
 - Photos: put files in public/photos/ and set src:'/photos/1.jpg'
 - Music: save a song as public/music.mp3
 - Deploy: npm run build (upload dist/ to Netlify / Vercel)
+
+
+https://umesh-38.netlify.app/
